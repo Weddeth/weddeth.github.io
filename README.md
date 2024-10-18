@@ -1,4 +1,4 @@
-# Weddeth Mihitawi
+### Hello, I'm Weddeth!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Weddeth-blue)](https://linkedin.com/in/weddeth)
 
