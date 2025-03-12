@@ -2,15 +2,14 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Weddeth-blue)](https://linkedin.com/in/weddeth)
 
-📧 weddethm@gmail.com  
-📞 801-688-3140  
+📧 weddethm@gmail.com   
 🌍 Greater Chicago Area
 
 ---
 
 ## About Me 🌟
 
-Results-driven Global Release Manager with over 15 years of experience in delivering complex tech projects. Proven track record in enabling new business models, improving operational efficiency, and driving growth. Adept at leading cross-functional teams and leveraging data analytics for informed decision-making. Recognized for fostering collaboration and championing Agile methodologies. 🏆 Awarded the President's Award at Discover Financial Services for outstanding contributions and as National Co-Chair of Women’s Impact Network ERG at Siemens.
+An accomplished manager with a track record of pioneering large-scale digital transformations, bringing a wealth of experience in enhancing operational efficiency and implementing strategic initiatives across global teams. Impactful expertise in Agile methodologies and release management has consistently yielded transformative impacts, streamlining processes and accelerating delivery lead times. Dedicated focus on stakeholder engagement and high emotional intelligence, fostering collaborative environments that exceed performance benchmarks and drive continuous improvement. Known for a commitment to diversity and inclusion and a proven ability to navigate complex matrix organizations, recognized for innovation and excellence, and have the skills and certifications necessary to deliver exceptional value and sustainable growth in dynamic, high-stakes environments. 🏆 Awarded the President's Award at Discover Financial Services for outstanding contributions and as National Co-Chair of Women’s Impact Network ERG at Siemens.
 
 ---
 
@@ -18,7 +17,7 @@ Results-driven Global Release Manager with over 15 years of experience in delive
 
 ### Global Release Manager/Value Stream Owner at Siemens (03/2022 - Present)
 
-- 🎯 **Sustainability Platform**: Led the end-to-end implementation impacting global areas including Pune, Milan, Brazil, and Chicago.
+- 🎯 **Sustainability Platform**: Led the end-to-end implementation impacting global areas, including Pune, Milan, Brazil, and Chicago.
 - 🚀 **CI/CD Practices**: Championed CI/CD within the value stream, increasing deployment frequency by 15% and reducing defect rates.
 - 💡 **Release Process Overhaul**: Developed a new release process, reducing release cycle time by 16% and streamlining team efforts.
 
@@ -32,16 +31,42 @@ Results-driven Global Release Manager with over 15 years of experience in delive
 
 ## Skills 🛠️
 
-- Agile Methodology 🔄
-- Cross-Functional Projects 🤝
-- Kanban 📋
-- Critical Thinking 💭
-- Risk Management 🚦
-- Product Execution 🚀
-- Leadership 🌟
-- Communication 🗣️
-- Team Culture 🏅
-- High EQ ❤️
+- High EQ
+- Risk Management
+- DevOps Transformation
+- Ambiguity Management
+- Continuous Improvement
+- Matrix Organization
+- Data-Driven Decision Making
+- Product Roadmap Development and Strategy
+- Cross-Functional Projects
+- Release Management
+- Change Management
+- Enhance Platform Capabilities
+
+---
+
+## Tools 🧰
+
+- JIRA
+- Agile Framework
+- SAFe
+- Rally
+- Agile Methodology
+- Product Roadmap
+- SCRUM
+- Kanban
+- PDLC
+- Project Management
+- E2E Testing
+- MS Office Suite
+- UI/UX Design
+- E2E Processes Implementation
+- Research Development
+- Analytical Skills
+- SharePoint
+- Feature Development
+- User Experience Optimization
 
 ---
 
@@ -60,20 +85,10 @@ Results-driven Global Release Manager with over 15 years of experience in delive
 
 ---
 
-## Tools 🧰
-
-- JIRA 📊
-- Visio Flowchart 📈
-- Git 🐙
-- Data Analytics 📉
-- Figma 🎨
-
----
-
 ## Interests and Advocacy 🌱
 
-- Empowering women as a co-chair of WIN@S (Women's Impact Network at Siemens) ERG 💪
-- Volunteering in community services 🤲
-- Lifelong learning 📚
-- Boosting productivity with strategic caffeine intake ☕
-- Exploring the world of cinema 🎬
+- Empowering women as a co-chair of WIN@S (Women's Impact Network at Siemens) ERG
+- Volunteering in community services
+- Lifelong learning
+- Boosting productivity with strategic caffeine intake
+- Exploring the world of cinema
